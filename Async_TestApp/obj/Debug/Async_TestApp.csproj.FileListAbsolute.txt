@@ -1,0 +1,11 @@
+I:\C#\Async_TestApp\Async_TestApp\bin\Debug\Async_TestApp.exe.config
+I:\C#\Async_TestApp\Async_TestApp\bin\Debug\Async_TestApp.exe
+I:\C#\Async_TestApp\Async_TestApp\bin\Debug\Async_TestApp.pdb
+I:\C#\Async_TestApp\Async_TestApp\obj\Debug\Async_TestApp.csproj.AssemblyReference.cache
+I:\C#\Async_TestApp\Async_TestApp\obj\Debug\Async_TestApp.csproj.SuggestedBindingRedirects.cache
+I:\C#\Async_TestApp\Async_TestApp\obj\Debug\Async_TestApp.Form1.resources
+I:\C#\Async_TestApp\Async_TestApp\obj\Debug\Async_TestApp.Properties.Resources.resources
+I:\C#\Async_TestApp\Async_TestApp\obj\Debug\Async_TestApp.csproj.GenerateResource.cache
+I:\C#\Async_TestApp\Async_TestApp\obj\Debug\Async_TestApp.csproj.CoreCompileInputs.cache
+I:\C#\Async_TestApp\Async_TestApp\obj\Debug\Async_TestApp.exe
+I:\C#\Async_TestApp\Async_TestApp\obj\Debug\Async_TestApp.pdb
